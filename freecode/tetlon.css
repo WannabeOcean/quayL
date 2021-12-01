@@ -1,0 +1,62 @@
+header {
+    color: white;
+    background: black;
+}
+.border.follow {
+    background: lightgreen;
+    color: darkblue;
+    font-weight: 700;
+    width: 70px;
+    height: 24px;
+    border: none;
+    border: none !important;
+    border-radius: 0.5remt;
+    border-radius: 0.3rem;
+}
+.border.follow:hover {color: blue;
+background: greenyellow;}
+a:hover {
+    
+    text-decoration: none;
+}
+.border.editer {
+    background: darkblue;
+    color: brown;
+    font-weight: 700;
+    width: 120px;
+    height: 40px;
+    border: none !important;
+    border-radius: 0.3rem;
+    text-align: center;
+}
+.border.apple {
+    background: darkblue;
+    color:brown;
+    font-weight: 700;
+    width: 45px;
+    height: 40px;
+    border: none !important;
+    border-radius: 0.3rem;
+    text-align: center;
+}
+.dr{
+    text-align: center;
+    padding-top: 40px;
+}
+.container-fluid1{
+    background: #A9A9A9;
+}
+.drr{
+    padding-left: 400px;
+    padding-right: 400px;
+}
+h2{
+margin-bottom: 30px;
+}
+.container{
+    background: white;
+}
+.gh{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
